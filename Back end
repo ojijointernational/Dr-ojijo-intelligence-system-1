@@ -1,0 +1,7 @@
+dr-ojijo-backend/
+├── main.py
+├── requirements.txt
+├── .env
+└── data/
+    ├── about_us.txt
+    └── faq.txt
